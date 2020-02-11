@@ -103,7 +103,7 @@ To consider:
 
 ## 💡 To Do
 
-...
+... <br />
 usar optional-chaining <br />
 redux <br />
 Tests
