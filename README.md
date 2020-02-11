@@ -1,8 +1,8 @@
 # Shopping Cart 🛒
 
-<!-- Captura de la app -->
-<!-- [Enlace a la App online]() -->
-[Enlace al proyecto en GitHub](https://github.com/leireriel/shopping-cart)
+Captura de la app
+[Enlace a la App online](...)
+[Enlace al proyecto en GitHub](https://github.com/leireriel/my-react-redux-boilerplate)
 
 ## 👀 What is this?
 
@@ -17,8 +17,8 @@ Creating project structure :)
 
 You need to have installed [Node.js](https://nodejs.org/), and then:
 
-1. `$ git clone https://github.com/leireriel/shopping-cart.git`
-2. `$ npm install`
+1. `$ git clone https://github.com/leireriel/my-react-redux-boilerplate.git`
+2. `$ npm i`
 3. `$ npm start` + open `http://localhost:3000/`
 
 ## ⛩️ Structure
@@ -32,8 +32,10 @@ shopping-cart
 │   ├── manifest.json
 │   └── robots.txt
 ├── src
-│   ├── actions
+│   ├── actions (redux)
 │   ├── assets
+│   │   ├── fonts
+│   │   └── images
 │   ├── components
 │   │   ├── Counter
 │   │   └── Button
@@ -43,7 +45,7 @@ shopping-cart
 │   │   ├── Header
 │   │   └── Main
 │   ├── modals
-│   ├── reducers
+│   ├── reducers (redux)
 │   │   ├── counter.js
 │   │   ├── index.js
 │   │   └── isLogged.js
@@ -102,9 +104,9 @@ To consider:
 ## 💡 To Do
 
 ...
-<!-- usar optional-chaining -->
-<!-- redux -->
-<!-- Tests -->
+usar optional-chaining
+redux
+Tests
 
 ## 🔧 Production build
 
