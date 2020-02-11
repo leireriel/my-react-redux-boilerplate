@@ -32,21 +32,38 @@ shopping-cart
 │   ├── manifest.json
 │   └── robots.txt
 ├── src
+│   ├── actions
 │   ├── assets
 │   ├── components
+│   │   ├── Counter
+│   │   └── Button
 │   ├── constants
 │   ├── layouts
+│   │   ├── Footer
+│   │   ├── Header
+│   │   └── Main
 │   ├── modals
+│   ├── reducers
+│   │   ├── counter.js
+│   │   ├── index.js
+│   │   └── isLogged.js
 │   ├── routes
-│   │   └── App
+│   │   ├── App
+│   │   └── Shop
 │   ├── services
 │   ├── styles
+│   │   ├── _base.scss
+│   │   ├── _breakpoints.scss
+│   │   ├── _colors.scss
+│   │   ├── _fonts.scss
+│   │   └── index.scss
 │   ├── utils
 |   └── index.js
 ├── tests
 │   ├── App.test.js
 |   └── setupTests.js
 ├── .babelrc
+├── .env
 ├── .gitignore
 ├── package-lock.json
 ├── package.json
