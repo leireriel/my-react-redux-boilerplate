@@ -1,7 +1,7 @@
 # Shopping Cart 🛒
 
-Captura de la app
-[Enlace a la App online](...)
+Captura de la app <br />
+[Enlace a la App online](...) <br />
 [Enlace al proyecto en GitHub](https://github.com/leireriel/my-react-redux-boilerplate)
 
 ## 👀 What is this?
@@ -104,8 +104,8 @@ To consider:
 ## 💡 To Do
 
 ...
-usar optional-chaining
-redux
+usar optional-chaining <br />
+redux <br />
 Tests
 
 ## 🔧 Production build
